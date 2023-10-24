@@ -92,3 +92,4 @@ CryptoCrew Validators is a reputable Austrian-based web3 infrastructure company,
 | Dig Chain | `digvaloper184tx500pdv53uua98ezu2vy2zcfp5nfwrsjnz7` | [delegate DIG](https://restake.app/dig/digvaloper184tx500pdv53uua98ezu2vy2zcfp5nfwrsjnz7) |
 | Vidulum | `vdlvaloper1p90dt0hz833deaf24x69asp462vwkpgu2ln4gj` | [delegate VDL](https://restake.app/vidulum/vdlvaloper1p90dt0hz833deaf24x69asp462vwkpgu2ln4gj) |
 | Odin | `odinvaloper103yy6yxn7u3tfs25fr4xt4hyfq9h44ydw98n3z` | [delegate ODIN](https://restake.app/odin/odinvaloper103yy6yxn7u3tfs25fr4xt4hyfq9h44ydw98n3z) |
+| Radix | `rdx1sdk493n96m2v8t0st6hgrdmdua8y6kp84lcwv35qr7umvj7ar4x3e8` | [delegate XRD](https://dashboard.radixdlt.com/network-staking/validator_rdx1sdk493n96m2v8t0st6hgrdmdua8y6kp84lcwv35qr7umvj7ar4x3e8) |
