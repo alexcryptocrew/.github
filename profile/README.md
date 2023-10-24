@@ -1,6 +1,6 @@
 # CryptoCrew Validators
 
-![CryptoCrew Validators Logo](cryptocrew-logo-white-font.png)
+![CryptoCrew Validators Logo](https://raw.githubusercontent.com/cryptocrew-validators/.github/main/profile/cryptocrew-logo-white-font.png)
 
 CryptoCrew Validators is a reputable Austrian-based web3 infrastructure company, committed to upholding the highest standards of transparency, integrity, and security. We serve as a Validator, IBC Integrator, Relayer, and Blockchain Node Provider. We validate over 35 networks and provide IBC-Relayers to over 50 networks. Our mission is to secure various blockchain networks while offering staking rewards.
 
@@ -15,12 +15,16 @@ CryptoCrew Validators is a reputable Austrian-based web3 infrastructure company,
 ## Services
 **Blockchain Validation**
 - 🛡️ Secure and reliable validation services  
+
 **Bare Metal Node-Provider**
 - ⚙️ Dedicated single-tenancy nodes for maximum security and stability  
+
 **IBC Integration**
 - 🔄 Seamless Inter-Blockchain Communication  
+
 **Relaying**
-- 📡 Over 50 networks relayed  
+- 📡 Over 50 networks actively relaying  
+
 **Customized Staking Solutions**
 - 💰 For high-value stakers, associate delegators, and companies  
 
